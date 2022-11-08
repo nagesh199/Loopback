@@ -1,0 +1,10 @@
+{
+  "ids": {
+    "Todomodel": 2386768800
+  },
+  "models": {
+    "Todomodel": {
+      "11": "{\"id\":\"11\",\"title\":\"new loopback todo\",\"desc\":\"new work with loopback\",\"isComplete\":true}"
+    }
+  }
+}
